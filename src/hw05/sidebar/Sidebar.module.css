@@ -1,0 +1,37 @@
+.sidebar {
+    position: fixed;
+    width: 100%;
+}
+
+.sidebar.open {
+}
+
+.background {
+}
+
+.nav {
+
+}
+
+.nav a {
+    font-family: 'Lucida Sans Unicode';
+    background-color: #1e7a86;
+    padding: 10px 100px;
+    color: #ececec;
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.nav a:hover {
+    background-color: #1a9cab;
+}
+
+.nav a.active {
+    background-color: #1e5157;
+}
+.close {
+}
+
+.close img {
+}
